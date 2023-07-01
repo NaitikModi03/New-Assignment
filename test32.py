@@ -1,0 +1,1 @@
+print("This is test32.py.")
